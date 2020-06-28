@@ -1,0 +1,6 @@
+Viora|Jean-Sébastien|Rue de blois|41256|Maves|0654897452|2002|non binaire|
+Escaille|Titouan*|Rue du Tieu|41000|Blois|0765984125|2005|.|
+Charreire|Tristan|Il habite à Blois|41000|Blois|05698745230|2003|homme|
+Cheucle|Antoine|5B rue de la mairie|41350|Saint Claude de Diray|0767345522|1998|21 cm|
+Remy|Thomas|45 rue de la révolte Discordienne|41000|Saint gervais la fôret|9865478510|1950|13 cm|
+BINGINOT|etienne|1 rue de la revolte |41000|blois|0645789312|2002|89 mm|
